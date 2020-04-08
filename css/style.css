@@ -1,0 +1,51 @@
+
+
+.topdiv{
+    border: #6a96ff solid 1px;
+    height: 60px;
+    background-color: blue;
+}
+.middlediv{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    align-content: center;
+}
+.bottomdiv-1{
+    height: 40px;
+    background-color: white;
+
+}
+.fontspan{
+    font-family: sans-serif;
+    color: black;
+    font-size: large;
+    line-height: 40px;
+}
+.testIMG{
+    float:right;
+    display:inline;
+    margin-top:0;
+    margin-left:0px;
+}
+.testTXT{
+    float:right;
+    display:inline;
+    margin-top:20px;
+    margin-left:5px;
+}
+.imgsized{
+    width: 80px;
+    height: 80px;
+}
+.titlefont{
+    font-family: Cambria;
+    color: black;
+    font-size: small;
+
+}
+.datafont{
+    font-family: Cambria;
+    color: gray;
+    font-size: smaller;
+
+}
